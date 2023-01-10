@@ -1,0 +1,101 @@
+offering_id	avg_rating	hotel_class	locality	name	region_id
+1872507	5.0	4.0	New York City	Thompson Hotel	60763
+1961981	5.0	2.0	El Paso	Candlewood Suites El Paso North	60768
+2712053	5.0	3.0	Houston	Staybridge Suites Houston Iah - Beltway 8	56003
+3191802	5.0	3.0	Houston	Residence Inn Houston I-10 West	56003
+3393901	5.0	3.0	Houston	Hilton Garden Inn Houston NW America Plaza	56003
+1175274	4.86013986013986	5.0	San Francisco	Fairmont Heritage Place, Ghirardelli Square	60713
+2196840	4.822222222222222	3.5	Baltimore	Inn at The Black Olive	60811
+781627	4.805045871559633	5.0	San Diego	The Grand Del Mar	60750
+1516481	4.804794520547945	5.0	Chicago	Waldorf Astoria Chicago	35805
+2322597	4.777070063694268	5.0	Baltimore	Four Seasons Baltimore	60811
+2627745	4.757575757575758	4.0	Phoenix	Hotel Palomar Phoenix - a Kimpton Hotel	31310
+268155	4.75	3.0	San Diego	Residence Inn San Diego Scripps Poway Parkway	60750
+559491	4.75	2.5	Houston	Holiday Inn Express Houston East	56003
+1218737	4.75	2.5	Houston	La Quinta Inn & Suites Houston - Normandy	56003
+1929352	4.744186046511628	3.0	San Antonio	Drury Plaza Hotel San Antonio North	60956
+1465151	4.742857142857143	3.0	Fort Worth	Staybridge Suites West Fort Worth	55857
+1152288	4.742671009771987	5.0	Seattle	Four Seasons Hotel Seattle	60878
+80983	4.730263157894737	4.0	San Francisco	Hotel Drisco	60713
+113317	4.727551020408163	4.0	New York City	Casablanca Hotel Times Square	60763
+1572980	4.725409836065574	4.0	New York City	Crosby Street Hotel	60763
+258705	4.725113122171946	4.0	Boston	Hotel Commonwealth	60745
+674283	4.716369529983792	5.0	Chicago	Trump International Hotel & Tower Chicago	35805
+1235363	4.714285714285714	2.5	Jacksonville	BEST WESTERN PLUS Cecil Field Inn & Suites	60805
+1199588	4.711323763955343	3.5	Seattle	Cedarbrook Lodge	60878
+73445	4.704081632653061	3.0	Houston	BEST WESTERN PLUS Westchase Mini-Suites	56003
+100507	4.703703703703703	4.0	Seattle	Inn at the Market	60878
+73943	4.6929637526652455	5.0	Phoenix	Royal Palms Resort and Spa	31310
+1859056	4.6927536231884055	3.5	Denver	Embassy Suites Denver - Downtown / Convention Center	33388
+1566945	4.683179723502304	4.0	Chicago	Palomar Chicago, a Kimpton Hotel	35805
+1762662	4.682926829268292	2.5	Austin	La Quinta Inn & Suites Austin/Cedar Park/Lakeline	30196
+225105	4.682758620689655	5.0	Chicago	The Peninsula Chicago	35805
+3186945	4.681818181818182	3.0	Philadelphia	Homewood Suites University City	60795
+224221	4.680867544539117	4.0	New York City	Library Hotel	60763
+2351689	4.68	2.5	El Paso	Comfort Inn & Suites I-10 Airport	60768
+1503474	4.6790378006872855	3.5	New York City	Distrikt Hotel	60763
+1239568	4.666666666666667	2.0	Indianapolis	Candlewood Suites Indianapolis Northwest	37209
+1409115	4.666666666666667	3.0	Charlotte	Drury Inn & Suites Charlotte Northlake	49022
+1863251	4.666666666666667	3.0	Houston	Holiday Inn Houston West-Westway Park	56003
+2309623	4.666666666666667	2.5	Denver	Hampton Inn & Suites Denver/Airport-Gateway Park	33388
+3236579	4.666666666666667	3.5	Houston	Crowne Plaza Houston Galleria Area	56003
+3506933	4.666666666666667	2.5	New York City	Howard Johnson Manhattan Soho	60763
+1845691	4.664	5.0	Denver	Four Seasons Hotel Denver	33388
+1573321	4.663865546218488	3.0	Houston	SpringHill Suites Houston Intercontinental Airport	56003
+2015227	4.66060606060606	4.0	Phoenix	Westin Phoenix Downtown	31310
+878115	4.657657657657658	2.5	Columbus	Hampton Inn & Suites Columbus Polaris	50226
+2533205	4.6571428571428575	3.0	Fort Worth	Hilton Garden Inn Fort Worth Medical Center	55857
+99762	4.654260528893242	4.0	New York City	Hotel Giraffe	60763
+122703	4.652291105121294	4.0	Dallas	Grand Hyatt DFW	55711
+1028569	4.651685393258427	4.5	New York City	Greenwich Hotel	60763
+93340	4.651358950328023	4.0	New York City	Hotel Elysee	60763
+3369752	4.65	2.5	Denver	SpringHill Suites Denver Downtown	33388
+1888977	4.648111332007952	4.0	New York City	The Pearl Hotel	60763
+1776857	4.647642679900744	5.0	New York City	The Setai Fifth Avenue, a Capella managed Hotel	60763
+109335	4.647058823529412	3.0	Dallas	Hawthorn Suites by Wyndham Dallas Park Central	55711
+112052	4.647058823529412	5.0	New York City	The Mark	60763
+1673679	4.6455696202531644	3.0	San Antonio	Hyatt Place San Antonio-North/Stone Oak	60956
+1485961	4.64207650273224	4.0	New York City	Andaz Wall Street	60763
+1149434	4.640718562874252	3.0	Denver	Homewood Suites Denver International Airport	33388
+224948	4.6405797101449275	4.5	San Francisco	Omni San Francisco Hotel	60713
+1746459	4.640569395017794	3.5	New York City	The Nolitan Hotel	60763
+613399	4.640070921985815	4.5	Seattle	Hotel 1000	60878
+1236866	4.64	2.5	Indianapolis	Hampton Inn Indianapolis Northwest - Park 100	37209
+3226761	4.6375	4.0	Philadelphia	Hotel Monaco Philadelphia	60795
+1415082	4.6371681415929205	3.5	Columbus	Embassy Suites Columbus - Airport	50226
+1866401	4.636363636363637	3.0	Houston	Holiday Inn Hotel-Houston Westchase	56003
+2554348	4.636363636363637	3.0	San Antonio	Holiday Inn Hotel & Suites San Antonio Northwest	60956
+2008152	4.634615384615385	4.0	Austin	Travaasa Austin	30196
+93585	4.633802816901408	5.0	New York City	Lowell Hotel	60763
+1762915	4.633333333333334	4.0	Indianapolis	JW Marriott Indianapolis	37209
+246937	4.631578947368421	4.0	Columbus	The Blackwell	50226
+775880	4.62962962962963	4.5	Memphis	River Inn of Harbor Town	55197
+93559	4.626168224299065	4.5	New York City	The Sherry-Netherland Hotel	60763
+1566913	4.625	3.0	San Antonio	Staybridge Suites San Antonio Sea World	60956
+1862847	4.625	3.5	Houston	Embassy Suites Houston Downtown	56003
+89575	4.623949579831932	5.0	Boston	Boston Harbor Hotel	60745
+1456416	4.623271889400922	5.0	New York City	Trump SoHo New York	60763
+619615	4.622489959839357	3.0	Chicago	Hampton Majestic Chicago Theatre District	35805
+73923	4.622222222222222	3.0	Phoenix	Drury Inn & Suites Phoenix Airport	31310
+1566763	4.620689655172414	2.5	Jacksonville	Fairfield Inn & Suites Jacksonville West/Chaffee Point	60805
+91527	4.619047619047619	3.0	Indianapolis	Residence Inn Indianapolis Fishers	37209
+94337	4.617250673854447	4.5	Boston	XV Beacon	60745
+114134	4.614413075780089	4.0	Boston	The Lenox Hotel	60745
+224224	4.61436170212766	5.0	New York City	The Ritz-Carlton New York, Central Park	60763
+1008647	4.613636363636363	2.5	Indianapolis	Comfort Suites Indianapolis	37209
+1588429	4.613636363636363	2.5	Columbus	Comfort Suites East Broad at 270	50226
+1804801	4.608695652173913	3.0	Columbus	Hyatt Place Columbus/OSU	50226
+2145772	4.608695652173913	3.0	El Paso	Staybridge Suites El Paso Airport Area	60768
+878358	4.607476635514018	5.0	Denver	The Ritz-Carlton, Denver	33388
+656430	4.603406326034063	3.0	San Diego	Homewood Suites San Diego Airport - Liberty Station	60750
+111507	4.6	5.0	Chicago	The Ritz-Carlton Chicago (A Four Seasons Hotel)	35805
+224832	4.6	2.5	Indianapolis	Wingate by Wyndham Indianapolis Northwest	37209
+518371	4.6	3.0	Houston	Hilton Garden Inn Houston Westbelt	56003
+1214730	4.6	3.5	Jacksonville	Hotel Indigo Jacksonville Deerwood Park	60805
+1237172	4.6	2.0	Houston	Candlewood Suites Houston NW - Willowbrook	56003
+1485459	4.6	3.0	Phoenix	Homewood Suites Phoenix Airport South	31310
+1724007	4.6	2.0	Houston	Candlewood Suites I-10 East	56003
+1846923	4.6	2.0	Houston	Sleep Inn & Suites I-45 / Airtex	56003
+2622936	4.6	3.5	New York City	Wyndham Garden Chinatown	60763
+1723585	4.59904912836767	3.0	Seattle	The Maxwell Hotel Seattle	60878
+242702	4.598484848484849	3.5	Detroit	Inn on Ferry Street	42139

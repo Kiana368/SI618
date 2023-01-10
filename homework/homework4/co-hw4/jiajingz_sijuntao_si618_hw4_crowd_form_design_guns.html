@@ -1,0 +1,48 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+  <crowd-instructions link-text="View instructions" link-type="button">
+    <short-summary>
+      <p>Thank you for helping us with our classification task.
+      In this task, we ask you to read a tweet
+      and answer whether the author (1) supports gun control, (2) supports gun rights, or (3) neutral towards guns and/or their position is unclear from the text.</p>
+    </short-summary>
+
+    <detailed-instructions>
+    <p>According to our research definitions, a tweet can be classified as</p>
+    <ul>
+    <li>supports gun control (e.g. the author think guns should be controlled by the government)</li>
+    <li>supports gun rights (e.g. in favor of the gun rights like keeping and bearing arms)</li>
+    <li>neutral/unclear (author is neutral towards guns and/or their position is unclear from the text)</li>
+    </ul>
+    <p>In the follow up questions, we ask you to judge whether the tweet was directed at a particular individual or group.</p>
+      
+    </detailed-instructions>
+    
+    
+  </crowd-instructions>
+
+  <div>
+    <h3>Tweet: ${tweet_text}</h3>
+    <h3>Is the text of this tweet supports gun control, supports gun rights or neutral towards guns (or) unclear?</h3>
+    <crowd-radio-group>
+	    <crowd-radio-button name="guns" value="supports-gun-control">Supports gun control</crowd-radio-button>
+	    <crowd-radio-button name="guns1" value="supports-gun-rights">Supports gun rights</crowd-radio-button>
+	    <crowd-radio-button name="guns2" value="neutral/unclear">Neutral/Unclear</crowd-radio-button>
+	</crowd-radio-group>
+    <h3>Is the text of this tweet targeted as a particular individual or group?</h3>
+    <crowd-radio-group>
+	    <crowd-radio-button name="targeted" value="yes">Yes</crowd-radio-button>
+	    <crowd-radio-button name="targeted1" value="no">No</crowd-radio-button>
+	    <crowd-radio-button name="targeted2" value="n/a">NA</crowd-radio-button>
+	</crowd-radio-group>
+  </div>
+
+  
+</crowd-form>

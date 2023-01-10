@@ -1,0 +1,10 @@
+supports-gun-control1	0.5733333333333334	supports-gun-rights1	0.38666666666666666	neutral-guns1	0.7866666666666666	
+supports-gun-control2	0.25333333333333335	supports-gun-rights2	0.10666666666666667	neutral-guns2	0.5466666666666666	
+supports-gun-control3	0.13333333333333333	supports-gun-rights3	0.04	neutral-guns3	0.17333333333333334	
+
+3 2018
+supports-gun-control-majority	0.2571428571428571	supports-gun-rights-majority 	0.08571428571428572	neutral-majority	0.4857142857142857	no_majority	0.17142857142857143
+6 2018
+supports-gun-control-majority	0.25	supports-gun-rights-majority 	0.125	neutral-majority	0.6	no_majority	0.025
+
+targeted_supports-gun-control-majority	0.8947368421052632	targeted_supports-gun-rights-majority	1.0	targeted_neutral-majority	0.926829268292683
